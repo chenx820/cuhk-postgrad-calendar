@@ -1,0 +1,32 @@
+[
+  {
+    "file": "01-common.ics",
+    "events": 20,
+    "calendar": "CUHK 研究生 2026–27｜公共日期"
+  },
+  {
+    "file": "02-select-one-term-system/2-term.ics",
+    "events": 9,
+    "calendar": "CUHK 研究生 2026–27｜两学期制"
+  },
+  {
+    "file": "02-select-one-term-system/3-term-A.ics",
+    "events": 12,
+    "calendar": "CUHK 研究生 2026–27｜三学期制 A"
+  },
+  {
+    "file": "02-select-one-term-system/3-term-B.ics",
+    "events": 12,
+    "calendar": "CUHK 研究生 2026–27｜三学期制 B"
+  },
+  {
+    "file": "02-select-one-term-system/4-term.ics",
+    "events": 12,
+    "calendar": "CUHK 研究生 2026–27｜四学期制"
+  },
+  {
+    "file": "03-optional-research-doctoral.ics",
+    "events": 7,
+    "calendar": "CUHK 2026–27｜论文与学位（可选）"
+  }
+]

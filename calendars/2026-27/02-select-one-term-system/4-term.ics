@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Personal Calendar//CUHK PG 2026-27//ZH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CUHK 研究生 2026–27｜四学期制
+X-WR-TIMEZONE:Asia/Hong_Kong
+X-WR-CALDESC:非官方整理；具体项目日期以 CUHK 研究生院及
+ 项目通知为准。
+BEGIN:VEVENT
+UID:74c73ae2-98bb-5319-aebd-e542b2e43344
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260922
+SUMMARY:CUHK｜第一学期加退选（四学期制）
+DESCRIPTION:适用：研究生通用四学期制。学期：2026-09-07 至 
+ 2026-11-14。部分项目另有日期，需先核对具体项目。个人
+ 课程及考试安排以项目通知为准。加退选包含最后一天
+ ；具体截止时刻以 CUSIS 或项目通知为准。\n日期范围：20
+ 26-09-07 至 2026-09-21（含首尾）。\n非官方整理；官方校历
+ 版本：2026-05-26；核对日期：2026-09-08。\n来源：https://www.g
+ s.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+CATEGORIES:选课
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:0a1cdcd7-274f-53dd-979c-721414e72da0
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:CUHK｜第一学期开始（四学期制）
+DESCRIPTION:适用：研究生通用四学期制。学期：2026-09-07 至 
+ 2026-11-14。部分项目另有日期，需先核对具体项目。个人
+ 课程及考试安排以项目通知为准。\n日期范围：2026-09-07 
+ 至 2026-09-07（含首尾）。\n非官方整理；官方校历版本：2
+ 026-05-26；核对日期：2026-09-08。\n来源：https://www.gs.cuhk.edu
+ .hk/download/UniversityAlmanac202627.pdf.pdf
+CATEGORIES:学期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:5e1e183a-0f40-5e3a-9972-bef0de8f1baf
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:CUHK｜第一学期结束（四学期制）
+DESCRIPTION:适用：研究生通用四学期制。学期：2026-09-07 至 
+ 2026-11-14。部分项目另有日期，需先核对具体项目。个人
+ 课程及考试安排以项目通知为准。\n日期范围：2026-11-14 
+ 至 2026-11-14（含首尾）。\n非官方整理；官方校历版本：2
+ 026-05-26；核对日期：2026-09-08。\n来源：https://www.gs.cuhk.edu
+ .hk/download/UniversityAlmanac202627.pdf.pdf
+CATEGORIES:学期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:a79f232d-a171-55a5-b9b2-24e1506069a1
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261201
+SUMMARY:CUHK｜第二学期加退选（四学期制）
+DESCRIPTION:适用：研究生通用四学期制。学期：2026-11-16 至 
+ 2027-02-20。部分项目另有日期，需先核对具体项目。个人
+ 课程及考试安排以项目通知为准。加退选包含最后一天
+ ；具体截止时刻以 CUSIS 或项目通知为准。\n日期范围：20
+ 26-11-16 至 2026-11-30（含首尾）。\n非官方整理；官方校历
+ 版本：2026-05-26；核对日期：2026-09-08。\n来源：https://www.g
+ s.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+CATEGORIES:选课
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:f96a84e5-cd29-55c5-bcc6-d584bd9b23ed
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:CUHK｜第二学期开始（四学期制）
+DESCRIPTION:适用：研究生通用四学期制。学期：2026-11-16 至 
+ 2027-02-20。部分项目另有日期，需先核对具体项目。个人
+ 课程及考试安排以项目通知为准。\n日期范围：2026-11-16 
+ 至 2026-11-16（含首尾）。\n非官方整理；官方校历版本：2
+ 026-05-26；核对日期：2026-09-08。\n来源：https://www.gs.cuhk.edu
+ .hk/download/UniversityAlmanac202627.pdf.pdf
+CATEGORIES:学期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:b72337dc-4a58-56c4-a022-2c84a767ab49
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:CUHK｜第二学期结束（四学期制）
+DESCRIPTION:适用：研究生通用四学期制。学期：2026-11-16 至 
+ 2027-02-20。部分项目另有日期，需先核对具体项目。个人
+ 课程及考试安排以项目通知为准。\n日期范围：2027-02-20 
+ 至 2027-02-20（含首尾）。\n非官方整理；官方校历版本：2
+ 026-05-26；核对日期：2026-09-08。\n来源：https://www.gs.cuhk.edu
+ .hk/download/UniversityAlmanac202627.pdf.pdf
+CATEGORIES:学期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:836bd823-4f0c-5b11-9ba8-2994264d9e33
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270309
+SUMMARY:CUHK｜第三学期加退选（四学期制）
+DESCRIPTION:适用：研究生通用四学期制。学期：2027-02-22 至 
+ 2027-05-15。部分项目另有日期，需先核对具体项目。个人
+ 课程及考试安排以项目通知为准。加退选包含最后一天
+ ；具体截止时刻以 CUSIS 或项目通知为准。\n日期范围：20
+ 27-02-22 至 2027-03-08（含首尾）。\n非官方整理；官方校历
+ 版本：2026-05-26；核对日期：2026-09-08。\n来源：https://www.g
+ s.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+CATEGORIES:选课
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:cafcf693-1ca9-5426-9e1d-d294f09d557f
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:CUHK｜第三学期开始（四学期制）
+DESCRIPTION:适用：研究生通用四学期制。学期：2027-02-22 至 
+ 2027-05-15。部分项目另有日期，需先核对具体项目。个人
+ 课程及考试安排以项目通知为准。\n日期范围：2027-02-22 
+ 至 2027-02-22（含首尾）。\n非官方整理；官方校历版本：2
+ 026-05-26；核对日期：2026-09-08。\n来源：https://www.gs.cuhk.edu
+ .hk/download/UniversityAlmanac202627.pdf.pdf
+CATEGORIES:学期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:92266e8d-9e9d-59e4-a1fa-28155f244969
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:CUHK｜第三学期结束（四学期制）
+DESCRIPTION:适用：研究生通用四学期制。学期：2027-02-22 至 
+ 2027-05-15。部分项目另有日期，需先核对具体项目。个人
+ 课程及考试安排以项目通知为准。\n日期范围：2027-05-15 
+ 至 2027-05-15（含首尾）。\n非官方整理；官方校历版本：2
+ 026-05-26；核对日期：2026-09-08。\n来源：https://www.gs.cuhk.edu
+ .hk/download/UniversityAlmanac202627.pdf.pdf
+CATEGORIES:学期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:014fcfe9-5c5c-5198-a83e-466139824802
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270601
+SUMMARY:CUHK｜第四学期加退选（四学期制）
+DESCRIPTION:适用：研究生通用四学期制。学期：2027-05-17 至 
+ 2027-07-31。部分项目另有日期，需先核对具体项目。个人
+ 课程及考试安排以项目通知为准。加退选包含最后一天
+ ；具体截止时刻以 CUSIS 或项目通知为准。\n日期范围：20
+ 27-05-17 至 2027-05-31（含首尾）。\n非官方整理；官方校历
+ 版本：2026-05-26；核对日期：2026-09-08。\n来源：https://www.g
+ s.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+CATEGORIES:选课
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ee39b808-0dee-5ab6-ab38-43052c12aafe
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:CUHK｜第四学期开始（四学期制）
+DESCRIPTION:适用：研究生通用四学期制。学期：2027-05-17 至 
+ 2027-07-31。部分项目另有日期，需先核对具体项目。个人
+ 课程及考试安排以项目通知为准。\n日期范围：2027-05-17 
+ 至 2027-05-17（含首尾）。\n非官方整理；官方校历版本：2
+ 026-05-26；核对日期：2026-09-08。\n来源：https://www.gs.cuhk.edu
+ .hk/download/UniversityAlmanac202627.pdf.pdf
+CATEGORIES:学期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:f5dee8fb-93a6-54b7-a5ec-156ab72af25f
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:CUHK｜第四学期结束（四学期制）
+DESCRIPTION:适用：研究生通用四学期制。学期：2027-05-17 至 
+ 2027-07-31。部分项目另有日期，需先核对具体项目。个人
+ 课程及考试安排以项目通知为准。\n日期范围：2027-07-31 
+ 至 2027-07-31（含首尾）。\n非官方整理；官方校历版本：2
+ 026-05-26；核对日期：2026-09-08。\n来源：https://www.gs.cuhk.edu
+ .hk/download/UniversityAlmanac202627.pdf.pdf
+CATEGORIES:学期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

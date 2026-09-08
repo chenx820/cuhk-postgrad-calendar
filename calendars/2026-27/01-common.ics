@@ -1,0 +1,329 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Personal Calendar//CUHK PG 2026-27//ZH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CUHK 研究生 2026–27｜公共日期
+X-WR-TIMEZONE:Asia/Hong_Kong
+X-WR-CALDESC:非官方整理；具体项目日期以 CUHK 研究生院及
+ 项目通知为准。
+BEGIN:VEVENT
+UID:32c9627b-8fad-5de9-b0fc-bccdfc46d96f
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260808
+SUMMARY:CUHK｜研究生选课（大部分项目）
+DESCRIPTION:通过 CUSIS 选课；适用于大部分研究生项目，具
+ 体安排以项目通知为准。\n日期范围：2026-08-04 至 2026-08-0
+ 7（含首尾）。\n非官方整理；官方校历版本：2026-05-26；
+ 核对日期：2026-09-08。\n来源：https://www.gs.cuhk.edu.hk/download
+ /UniversityAlmanac202627.pdf.pdf
+CATEGORIES:校历
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:f61e4403-d542-5ef3-9294-6ce5dab8eac7
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:CUHK｜中秋节翌日
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2026-09-26 至 2026-09-26（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:90b253ce-0d9f-5146-a6d1-9a21da6e5f2c
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:CUHK｜国庆日
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2026-10-01 至 2026-10-01（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:05f8590f-3a71-5512-b4c4-0749fd1bd6f7
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:CUHK｜重阳节翌日
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2026-10-19 至 2026-10-19（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:47a22a2d-6191-5d83-bc6a-bd9fab99856e
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:CUHK｜第97届大会（颁授学位典礼）
+DESCRIPTION:校历列出的大学大会日期；各学院典礼安排另行
+ 通知，此事件不表示全校停课。\n日期范围：2026-11-12 至 
+ 2026-11-12（含首尾）。\n非官方整理；官方校历版本：2026-
+ 05-26；核对日期：2026-09-08。\n来源：https://www.gs.cuhk.edu.hk/
+ download/UniversityAlmanac202627.pdf.pdf
+CATEGORIES:校历
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:d535e3af-2259-5010-9c73-8c0a306733b2
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:CUHK｜圣诞节
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2026-12-25 至 2026-12-25（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:332ed1f9-5b0c-562e-b94a-10f6b16dcccf
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:CUHK｜圣诞节后第一个周日以外之日
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2026-12-26 至 2026-12-26（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:78671c1e-8d6a-5acb-8ec4-e8331b753802
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:CUHK｜元旦
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2027-01-01 至 2027-01-01（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:53991437-32f7-5977-a848-c547fe0c0eb1
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270212
+SUMMARY:CUHK｜农历新年校假期
+DESCRIPTION:研究生校历注明：此期间不安排课堂。包含首尾
+ 两天。\n日期范围：2027-02-05 至 2027-02-11（含首尾）。\n非
+ 官方整理；官方校历版本：2026-05-26；核对日期：2026-09-08
+ 。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.
+ pdf.pdf
+CATEGORIES:校历
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:2f23fd10-7c31-574d-80b7-232c864917eb
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:CUHK｜农历年初一
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2027-02-06 至 2027-02-06（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:c903a861-1d9b-5b0a-88e5-3eaa3185ca27
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:CUHK｜农历年初三
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2027-02-08 至 2027-02-08（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:1bf26573-df6a-5da6-b91f-c0f533aeb5b7
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:CUHK｜农历年初四
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2027-02-09 至 2027-02-09（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:9c804280-e4d5-507b-8e77-4154d2f0dd3e
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:CUHK｜耶稣受难节
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2027-03-26 至 2027-03-26（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:471560d2-d040-584e-bd21-a19f3b694937
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:CUHK｜耶稣受难节翌日
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2027-03-27 至 2027-03-27（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:a0a62e30-94ed-52da-8043-9d54ac3d4c12
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:CUHK｜复活节星期一
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2027-03-29 至 2027-03-29（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ae804a31-daa1-56c0-9b15-45fa1658ae82
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:CUHK｜清明节
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2027-04-05 至 2027-04-05（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:58d226bf-8b90-57f9-8f55-f0102942b739
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:CUHK｜劳动节
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2027-05-01 至 2027-05-01（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:296491ab-777b-585d-8775-69ba20727663
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:CUHK｜佛诞
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2027-05-13 至 2027-05-13（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:e5773d7c-2c00-51d2-9e3c-e80fe0a2a97f
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:CUHK｜端午节
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2027-06-09 至 2027-06-09（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:b1e51a1b-e948-50ba-86b0-50c29e7d3a94
+DTSTAMP:20260908T025050Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:CUHK｜香港特别行政区成立纪念日
+DESCRIPTION:研究生官方校历列明的公众假期；大学假期不安
+ 排课堂。\n日期范围：2027-07-01 至 2027-07-01（含首尾）。\n
+ 非官方整理；官方校历版本：2026-05-26；核对日期：2026-09
+ -08。\n来源：https://www.gs.cuhk.edu.hk/download/UniversityAlmanac2026
+ 27.pdf.pdf
+CATEGORIES:公众假期
+URL:https://www.gs.cuhk.edu.hk/download/UniversityAlmanac202627.pdf.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
