@@ -1,6 +1,6 @@
 # CUHK Postgrad Calendar
 
-香港中文大学（沙田）研究生校历的非官方 `.ics` 日历包，可导入 Apple 日历及其他支持 iCalendar 的应用。
+香港中文大学研究生校历的非官方 `.ics` 日历包，可导入 Apple 日历及其他支持 iCalendar 的应用。
 
 目前提供 **2026–27 学年**，覆盖 2026 年 8 月至 2027 年 8 月。日期来自研究生院通用校历，**尚未按具体项目匹配**；请先核对学院项目表，项目安排有差异时以项目通知为准。
 
@@ -30,13 +30,7 @@
 
 ## 具体课程示例
 
-`courses/2026-27/term-1/` 提供按 CUSIS 课表生成的课程示例，用来演示如何添加自己的课程，并不是完整或持续维护的官方课程目录。课程以 CUSIS 列出的完整 **Meeting Dates** 为准，不使用首次和最后一次上课日期推算，因此停课周不会被错误加入。
-
-目前包括：
-
-- [AIST 5040](courses/2026-27/term-1/AIST5040.ics)：13 次 lecture。
-- [CENG 5280](courses/2026-27/term-1/CENG5280.ics)：13 次 lecture 和 13 次 tutorial。
-- [全部课程](courses/2026-27/term-1/all-courses.ics)：以上课程合并，共 39 次课堂。导入此文件后无需再导入单科文件。
+`courses/2026-27/term-1/` 提供按 CUSIS 课表生成的课程示例，用来演示如何添加自己的课程，并不是完整或持续维护的官方课程目录。课程以 CUSIS 为准。
 
 课程数据保存在 [courses.json](courses/2026-27/term-1/courses.json)。每个课堂组件分别记录 `class_number`、`section`、`meeting_dates`、起止时间和教室。要制作自己的课表，可复制这个 JSON 结构并替换其中的数据，然后运行：
 
@@ -65,7 +59,5 @@ python3 calendars/2026-27/make_calendars.py
 - [Apple：在 Mac 上导入或导出日历](https://support.apple.com/zh-cn/guide/calendar/-icl1023/mac)
 - [Apple：在 iCloud 中添加日历订阅](https://support.apple.com/zh-cn/102301)
 - [RFC 5545：iCalendar](https://www.rfc-editor.org/rfc/rfc5545.html)
-
-官方 PDF 第三页将三学期制 A 的第二学期结束日 2027-04-10 误标为星期一；第一页日期表标为星期六，两处日期一致。本包采用 2027-04-10（星期六）。
 
 本项目并非 CUHK 官方发布，也未获学校认可或背书。学校发布的最新校历及项目通知优先。
