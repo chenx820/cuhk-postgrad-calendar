@@ -1,0 +1,17 @@
+[
+  {
+    "file": "AIST5040.ics",
+    "meetings": 13,
+    "course": "AIST 5040"
+  },
+  {
+    "file": "CENG5280.ics",
+    "meetings": 26,
+    "course": "CENG 5280"
+  },
+  {
+    "file": "all-courses.ics",
+    "meetings": 39,
+    "course": "ALL"
+  }
+]
