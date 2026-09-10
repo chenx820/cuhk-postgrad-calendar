@@ -73,6 +73,7 @@ def course_events(course: dict) -> list[dict]:
                     "end_time": component["end_time"],
                     "location": component["room"],
                     "description": (
+                        "Example course calendar generated from exact CUSIS Meeting Dates.\n"
                         f"Course: {course['code']} {course['title']}\n"
                         f"Class: {component['class_number']}\n"
                         f"Section: {component['section']}\n"
@@ -94,6 +95,7 @@ def write_calendar(path: Path, calendar_name: str, events: list[dict]) -> None:
         "CALSCALE:GREGORIAN",
         f"X-WR-CALNAME:{escape(calendar_name)}",
         f"X-WR-TIMEZONE:{timezone_name}",
+        f"X-WR-CALDESC:{escape(DATA['purpose'])}",
         "BEGIN:VTIMEZONE",
         f"TZID:{timezone_name}",
         "BEGIN:STANDARD",
@@ -132,10 +134,14 @@ for course in DATA["courses"]:
     events = course_events(course)
     all_events.extend(events)
     filename = course["code"].replace(" ", "") + ".ics"
-    write_calendar(ROOT / filename, f"CUHK {course['code']}｜{DATA['term']}", events)
+    write_calendar(ROOT / filename, f"CUHK Example｜{course['code']}｜{DATA['term']}", events)
     manifest.append({"file": filename, "meetings": len(events), "course": course["code"]})
 
-write_calendar(ROOT / "all-courses.ics", f"CUHK Courses｜{DATA['term']} {DATA['academic_year']}", all_events)
+write_calendar(
+    ROOT / "all-courses.ics",
+    f"CUHK Example Courses｜{DATA['term']} {DATA['academic_year']}",
+    all_events,
+)
 manifest.append({"file": "all-courses.ics", "meetings": len(all_events), "course": "ALL"})
 (ROOT / "manifest.json").write_text(
     json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"

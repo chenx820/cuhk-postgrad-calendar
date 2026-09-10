@@ -2,6 +2,7 @@
   "academic_year": "2026-27",
   "term": "Term 1",
   "timezone": "Asia/Hong_Kong",
+  "purpose": "Example course data demonstrating exact CUSIS Meeting Dates",
   "courses": [
     {
       "code": "AIST 5040",

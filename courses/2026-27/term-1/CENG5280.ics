@@ -2,8 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Personal Calendar//CUHK Courses//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:CUHK CENG 5280｜Term 1
+X-WR-CALNAME:CUHK Example｜CENG 5280｜Term 1
 X-WR-TIMEZONE:Asia/Hong_Kong
+X-WR-CALDESC:Example course data demonstrating exact CUSIS Meeting Dates
 BEGIN:VTIMEZONE
 TZID:Asia/Hong_Kong
 BEGIN:STANDARD
@@ -15,14 +16,15 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:e95ede8d-7aac-5d23-9de9-c5d554facf2e
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20260908T093000
 DTEND;TZID=Asia/Hong_Kong:20260908T101500
 SUMMARY:CENG 5280 T01 - TUT｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9895\nSectio
- n: T01 - TUT\nMeeting Date: 2026-09-08\nSource: CUSIS meeting information 
- supplied by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9895\nSection: T01 
+ - TUT\nMeeting Date: 2026-09-08\nSource: CUSIS meeting information supplie
+ d by the student.
 CATEGORIES:CUHK\,CENG 5280\,T01 - TUT
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -30,14 +32,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:742f063e-0372-5f54-a977-545db4e2fc15
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20260908T103000
 DTEND;TZID=Asia/Hong_Kong:20260908T131500
 SUMMARY:CENG 5280 LEC｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9886\nSectio
- n: LEC\nMeeting Date: 2026-09-08\nSource: CUSIS meeting information suppli
- ed by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9886\nSection: LEC\
+ nMeeting Date: 2026-09-08\nSource: CUSIS meeting information supplied by t
+ he student.
 CATEGORIES:CUHK\,CENG 5280\,LEC
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -45,14 +48,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:d9286425-78f7-51d8-b345-dcfb1ae5b1d2
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20260915T093000
 DTEND;TZID=Asia/Hong_Kong:20260915T101500
 SUMMARY:CENG 5280 T01 - TUT｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9895\nSectio
- n: T01 - TUT\nMeeting Date: 2026-09-15\nSource: CUSIS meeting information 
- supplied by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9895\nSection: T01 
+ - TUT\nMeeting Date: 2026-09-15\nSource: CUSIS meeting information supplie
+ d by the student.
 CATEGORIES:CUHK\,CENG 5280\,T01 - TUT
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -60,14 +64,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:2f796cf5-3e28-5376-93e9-dd2ba7c20ab2
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20260915T103000
 DTEND;TZID=Asia/Hong_Kong:20260915T131500
 SUMMARY:CENG 5280 LEC｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9886\nSectio
- n: LEC\nMeeting Date: 2026-09-15\nSource: CUSIS meeting information suppli
- ed by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9886\nSection: LEC\
+ nMeeting Date: 2026-09-15\nSource: CUSIS meeting information supplied by t
+ he student.
 CATEGORIES:CUHK\,CENG 5280\,LEC
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -75,14 +80,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e9f3ba1f-9cc9-5189-9521-7701b5b7990f
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20260922T093000
 DTEND;TZID=Asia/Hong_Kong:20260922T101500
 SUMMARY:CENG 5280 T01 - TUT｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9895\nSectio
- n: T01 - TUT\nMeeting Date: 2026-09-22\nSource: CUSIS meeting information 
- supplied by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9895\nSection: T01 
+ - TUT\nMeeting Date: 2026-09-22\nSource: CUSIS meeting information supplie
+ d by the student.
 CATEGORIES:CUHK\,CENG 5280\,T01 - TUT
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -90,14 +96,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:3d3eb355-c981-5df3-8044-01ca44caa615
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20260922T103000
 DTEND;TZID=Asia/Hong_Kong:20260922T131500
 SUMMARY:CENG 5280 LEC｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9886\nSectio
- n: LEC\nMeeting Date: 2026-09-22\nSource: CUSIS meeting information suppli
- ed by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9886\nSection: LEC\
+ nMeeting Date: 2026-09-22\nSource: CUSIS meeting information supplied by t
+ he student.
 CATEGORIES:CUHK\,CENG 5280\,LEC
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -105,14 +112,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:d87cb9f4-f922-58b4-9efc-c8f394581a49
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20260929T093000
 DTEND;TZID=Asia/Hong_Kong:20260929T101500
 SUMMARY:CENG 5280 T01 - TUT｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9895\nSectio
- n: T01 - TUT\nMeeting Date: 2026-09-29\nSource: CUSIS meeting information 
- supplied by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9895\nSection: T01 
+ - TUT\nMeeting Date: 2026-09-29\nSource: CUSIS meeting information supplie
+ d by the student.
 CATEGORIES:CUHK\,CENG 5280\,T01 - TUT
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -120,14 +128,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:434a23bc-b1fe-598d-8dc0-9f91d651dba0
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20260929T103000
 DTEND;TZID=Asia/Hong_Kong:20260929T131500
 SUMMARY:CENG 5280 LEC｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9886\nSectio
- n: LEC\nMeeting Date: 2026-09-29\nSource: CUSIS meeting information suppli
- ed by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9886\nSection: LEC\
+ nMeeting Date: 2026-09-29\nSource: CUSIS meeting information supplied by t
+ he student.
 CATEGORIES:CUHK\,CENG 5280\,LEC
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -135,14 +144,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:461abf50-4f39-51e0-8592-091583885789
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261006T093000
 DTEND;TZID=Asia/Hong_Kong:20261006T101500
 SUMMARY:CENG 5280 T01 - TUT｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9895\nSectio
- n: T01 - TUT\nMeeting Date: 2026-10-06\nSource: CUSIS meeting information 
- supplied by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9895\nSection: T01 
+ - TUT\nMeeting Date: 2026-10-06\nSource: CUSIS meeting information supplie
+ d by the student.
 CATEGORIES:CUHK\,CENG 5280\,T01 - TUT
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -150,14 +160,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:f0e4b1bc-a231-5aa0-bb6d-71369b616931
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261006T103000
 DTEND;TZID=Asia/Hong_Kong:20261006T131500
 SUMMARY:CENG 5280 LEC｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9886\nSectio
- n: LEC\nMeeting Date: 2026-10-06\nSource: CUSIS meeting information suppli
- ed by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9886\nSection: LEC\
+ nMeeting Date: 2026-10-06\nSource: CUSIS meeting information supplied by t
+ he student.
 CATEGORIES:CUHK\,CENG 5280\,LEC
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -165,14 +176,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a590d475-49e5-52b4-bf6f-16d9d97a7693
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261013T093000
 DTEND;TZID=Asia/Hong_Kong:20261013T101500
 SUMMARY:CENG 5280 T01 - TUT｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9895\nSectio
- n: T01 - TUT\nMeeting Date: 2026-10-13\nSource: CUSIS meeting information 
- supplied by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9895\nSection: T01 
+ - TUT\nMeeting Date: 2026-10-13\nSource: CUSIS meeting information supplie
+ d by the student.
 CATEGORIES:CUHK\,CENG 5280\,T01 - TUT
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -180,14 +192,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e09a4040-9f0f-5bb2-be22-5e7539e8f7a3
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261013T103000
 DTEND;TZID=Asia/Hong_Kong:20261013T131500
 SUMMARY:CENG 5280 LEC｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9886\nSectio
- n: LEC\nMeeting Date: 2026-10-13\nSource: CUSIS meeting information suppli
- ed by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9886\nSection: LEC\
+ nMeeting Date: 2026-10-13\nSource: CUSIS meeting information supplied by t
+ he student.
 CATEGORIES:CUHK\,CENG 5280\,LEC
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -195,14 +208,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:b01aebdd-2ce4-52bb-8421-b821bd672ae9
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261020T093000
 DTEND;TZID=Asia/Hong_Kong:20261020T101500
 SUMMARY:CENG 5280 T01 - TUT｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9895\nSectio
- n: T01 - TUT\nMeeting Date: 2026-10-20\nSource: CUSIS meeting information 
- supplied by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9895\nSection: T01 
+ - TUT\nMeeting Date: 2026-10-20\nSource: CUSIS meeting information supplie
+ d by the student.
 CATEGORIES:CUHK\,CENG 5280\,T01 - TUT
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -210,14 +224,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:7c509075-553a-5e57-8576-52e366b6e3e0
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261020T103000
 DTEND;TZID=Asia/Hong_Kong:20261020T131500
 SUMMARY:CENG 5280 LEC｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9886\nSectio
- n: LEC\nMeeting Date: 2026-10-20\nSource: CUSIS meeting information suppli
- ed by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9886\nSection: LEC\
+ nMeeting Date: 2026-10-20\nSource: CUSIS meeting information supplied by t
+ he student.
 CATEGORIES:CUHK\,CENG 5280\,LEC
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -225,14 +240,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:400523bb-a39b-5290-876a-d34cc2f8eb3a
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261027T093000
 DTEND;TZID=Asia/Hong_Kong:20261027T101500
 SUMMARY:CENG 5280 T01 - TUT｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9895\nSectio
- n: T01 - TUT\nMeeting Date: 2026-10-27\nSource: CUSIS meeting information 
- supplied by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9895\nSection: T01 
+ - TUT\nMeeting Date: 2026-10-27\nSource: CUSIS meeting information supplie
+ d by the student.
 CATEGORIES:CUHK\,CENG 5280\,T01 - TUT
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -240,14 +256,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:f706d1fd-1c70-5630-9b60-41acc570eb04
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261027T103000
 DTEND;TZID=Asia/Hong_Kong:20261027T131500
 SUMMARY:CENG 5280 LEC｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9886\nSectio
- n: LEC\nMeeting Date: 2026-10-27\nSource: CUSIS meeting information suppli
- ed by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9886\nSection: LEC\
+ nMeeting Date: 2026-10-27\nSource: CUSIS meeting information supplied by t
+ he student.
 CATEGORIES:CUHK\,CENG 5280\,LEC
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -255,14 +272,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ec38abd1-dd4d-5318-926d-a0ba56de706c
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261103T093000
 DTEND;TZID=Asia/Hong_Kong:20261103T101500
 SUMMARY:CENG 5280 T01 - TUT｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9895\nSectio
- n: T01 - TUT\nMeeting Date: 2026-11-03\nSource: CUSIS meeting information 
- supplied by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9895\nSection: T01 
+ - TUT\nMeeting Date: 2026-11-03\nSource: CUSIS meeting information supplie
+ d by the student.
 CATEGORIES:CUHK\,CENG 5280\,T01 - TUT
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -270,14 +288,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:61f7446e-88ab-5ea4-9168-864f57e24f02
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261103T103000
 DTEND;TZID=Asia/Hong_Kong:20261103T131500
 SUMMARY:CENG 5280 LEC｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9886\nSectio
- n: LEC\nMeeting Date: 2026-11-03\nSource: CUSIS meeting information suppli
- ed by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9886\nSection: LEC\
+ nMeeting Date: 2026-11-03\nSource: CUSIS meeting information supplied by t
+ he student.
 CATEGORIES:CUHK\,CENG 5280\,LEC
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -285,14 +304,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:7f699140-990c-536a-957a-db9e983e77e9
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261110T093000
 DTEND;TZID=Asia/Hong_Kong:20261110T101500
 SUMMARY:CENG 5280 T01 - TUT｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9895\nSectio
- n: T01 - TUT\nMeeting Date: 2026-11-10\nSource: CUSIS meeting information 
- supplied by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9895\nSection: T01 
+ - TUT\nMeeting Date: 2026-11-10\nSource: CUSIS meeting information supplie
+ d by the student.
 CATEGORIES:CUHK\,CENG 5280\,T01 - TUT
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -300,14 +320,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:64c97ca9-aee4-5ea4-8428-ae46ed0b9fce
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261110T103000
 DTEND;TZID=Asia/Hong_Kong:20261110T131500
 SUMMARY:CENG 5280 LEC｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9886\nSectio
- n: LEC\nMeeting Date: 2026-11-10\nSource: CUSIS meeting information suppli
- ed by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9886\nSection: LEC\
+ nMeeting Date: 2026-11-10\nSource: CUSIS meeting information supplied by t
+ he student.
 CATEGORIES:CUHK\,CENG 5280\,LEC
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -315,14 +336,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:cc2fd993-f476-5fd2-93f6-26d57a632050
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261117T093000
 DTEND;TZID=Asia/Hong_Kong:20261117T101500
 SUMMARY:CENG 5280 T01 - TUT｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9895\nSectio
- n: T01 - TUT\nMeeting Date: 2026-11-17\nSource: CUSIS meeting information 
- supplied by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9895\nSection: T01 
+ - TUT\nMeeting Date: 2026-11-17\nSource: CUSIS meeting information supplie
+ d by the student.
 CATEGORIES:CUHK\,CENG 5280\,T01 - TUT
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -330,14 +352,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:b6c3aebc-606f-5440-bf67-d08368f04f5f
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261117T103000
 DTEND;TZID=Asia/Hong_Kong:20261117T131500
 SUMMARY:CENG 5280 LEC｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9886\nSectio
- n: LEC\nMeeting Date: 2026-11-17\nSource: CUSIS meeting information suppli
- ed by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9886\nSection: LEC\
+ nMeeting Date: 2026-11-17\nSource: CUSIS meeting information supplied by t
+ he student.
 CATEGORIES:CUHK\,CENG 5280\,LEC
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -345,14 +368,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ba030c41-4e58-532f-a595-c2b475c5845c
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261124T093000
 DTEND;TZID=Asia/Hong_Kong:20261124T101500
 SUMMARY:CENG 5280 T01 - TUT｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9895\nSectio
- n: T01 - TUT\nMeeting Date: 2026-11-24\nSource: CUSIS meeting information 
- supplied by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9895\nSection: T01 
+ - TUT\nMeeting Date: 2026-11-24\nSource: CUSIS meeting information supplie
+ d by the student.
 CATEGORIES:CUHK\,CENG 5280\,T01 - TUT
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -360,14 +384,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a721bde4-ce3b-5d42-a3b0-15622d767442
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261124T103000
 DTEND;TZID=Asia/Hong_Kong:20261124T131500
 SUMMARY:CENG 5280 LEC｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9886\nSectio
- n: LEC\nMeeting Date: 2026-11-24\nSource: CUSIS meeting information suppli
- ed by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9886\nSection: LEC\
+ nMeeting Date: 2026-11-24\nSource: CUSIS meeting information supplied by t
+ he student.
 CATEGORIES:CUHK\,CENG 5280\,LEC
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -375,14 +400,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:4a2a454c-c324-5ec6-80d3-dd167c4017a9
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261201T093000
 DTEND;TZID=Asia/Hong_Kong:20261201T101500
 SUMMARY:CENG 5280 T01 - TUT｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9895\nSectio
- n: T01 - TUT\nMeeting Date: 2026-12-01\nSource: CUSIS meeting information 
- supplied by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9895\nSection: T01 
+ - TUT\nMeeting Date: 2026-12-01\nSource: CUSIS meeting information supplie
+ d by the student.
 CATEGORIES:CUHK\,CENG 5280\,T01 - TUT
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -390,14 +416,15 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:694ffd00-873f-5133-8302-8532fbadd14f
-DTSTAMP:20260910T061836Z
+DTSTAMP:20260910T062103Z
 DTSTART;TZID=Asia/Hong_Kong:20261201T103000
 DTEND;TZID=Asia/Hong_Kong:20261201T131500
 SUMMARY:CENG 5280 LEC｜Quantum Computer Systems
 LOCATION:Wen Lan Tang LG204
-DESCRIPTION:Course: CENG 5280 Quantum Computer Systems\nClass: 9886\nSectio
- n: LEC\nMeeting Date: 2026-12-01\nSource: CUSIS meeting information suppli
- ed by the student.
+DESCRIPTION:Example course calendar generated from exact CUSIS Meeting Date
+ s.\nCourse: CENG 5280 Quantum Computer Systems\nClass: 9886\nSection: LEC\
+ nMeeting Date: 2026-12-01\nSource: CUSIS meeting information supplied by t
+ he student.
 CATEGORIES:CUHK\,CENG 5280\,LEC
 STATUS:CONFIRMED
 TRANSP:OPAQUE

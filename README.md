@@ -28,9 +28,9 @@
 
 如需订阅，可使用 GitHub 对应 `.ics` 文件的 Raw HTTPS 地址添加订阅日历。订阅只会读取本仓库文件的更新，仍需维护者手动核对学校修订并更新文件。
 
-## 具体课程
+## 具体课程示例
 
-`courses/2026-27/term-1/` 收录按 CUSIS 课表生成的具体课程。课程以 CUSIS 列出的完整 **Meeting Dates** 为准，不使用首次和最后一次上课日期推算，因此停课周不会被错误加入。
+`courses/2026-27/term-1/` 提供按 CUSIS 课表生成的课程示例，用来演示如何添加自己的课程，并不是完整或持续维护的官方课程目录。课程以 CUSIS 列出的完整 **Meeting Dates** 为准，不使用首次和最后一次上课日期推算，因此停课周不会被错误加入。
 
 目前包括：
 
@@ -38,7 +38,7 @@
 - [CENG 5280](courses/2026-27/term-1/CENG5280.ics)：13 次 lecture 和 13 次 tutorial。
 - [全部课程](courses/2026-27/term-1/all-courses.ics)：以上课程合并，共 39 次课堂。导入此文件后无需再导入单科文件。
 
-课程数据保存在 [courses.json](courses/2026-27/term-1/courses.json)。每个课堂组件分别记录 `class_number`、`section`、`meeting_dates`、起止时间和教室。修改后运行：
+课程数据保存在 [courses.json](courses/2026-27/term-1/courses.json)。每个课堂组件分别记录 `class_number`、`section`、`meeting_dates`、起止时间和教室。要制作自己的课表，可复制这个 JSON 结构并替换其中的数据，然后运行：
 
 ```sh
 python3 courses/2026-27/term-1/make_courses.py
