@@ -13,7 +13,7 @@
 | [三学期制 A](calendars/2026-27/02-select-one-term-system/3-term-A.ics) | 学期起止、加退选期，含暑期 | 12 |
 | [三学期制 B](calendars/2026-27/02-select-one-term-system/3-term-B.ics) | 学期起止、加退选期，含暑期 | 12 |
 | [四学期制](calendars/2026-27/02-select-one-term-system/4-term.ics) | 学期起止及加退选期 | 12 |
-| [博士／研究式研究生（可选）](calendars/2026-27/03-optional-research-doctoral.ics) | 最终论文提交截止及学位颁授日期 | 7 |
+| [博士/研究型硕士（可选）](calendars/2026-27/03-optional-research-doctoral.ics) | 最终论文提交截止及学位颁授日期 | 7 |
 
 **四种学期制度只选适用的一份。** 尚未确认项目时，可先导入公共日期。授课型硕士通常无需导入论文与学位文件；研究式学生仍须核对内部提交期限和毕业要求。
 
